@@ -1,0 +1,22 @@
+index,Cinsiyet,Yaş Grubu,Medeni Durum,Eğitim Düzeyi,İstihdam Durumu,Yıllık Ortalama Gelir,Yaşadığı Şehir,En Çok İlgilendiği Ürün Grubu,Yıllık Ortalama Satın Alım Miktarı,Yıllık Ortalama Sipariş Verilen Ürün Adedi,Eğitime Devam Etme Durumu,Öbek İsmi,Yıllık Ortalama Sepete Atılan Ürün Adedi
+-1,Kadın,18-30,Evli,Eğitimsiz,İşsiz veya Düzenli Bir İşi Yok,0.0,Büyük Şehir,Giyim,0.0,0.0,Ediyor,obek_1,0.0
+-1,Kadın,31-40,Bekar,İlkokul Mezunu,Düzenli ve Ücretli Bir İşi Var,560000.0,Küçük Şehir,Giyim,15000.0,35.0,Etmiyor,obek_4,25.0
+-1,Kadın,31-40,Bekar,İlkokul Mezunu,Düzenli ve Ücretli Bir İşi Var,880000.0,Küçük Şehir,Giyim,15000.0,35.0,Etmiyor,obek_4,25.0
+-1,Kadın,31-40,Bekar,İlkokul Mezunu,Düzenli ve Ücretli Bir İşi Var,880000.0,Küçük Şehir,Giyim,1500.0,8.0,Etmiyor,obek_1,25.0
+-1,Kadın,31-40,Bekar,İlkokul Mezunu,Düzenli ve Ücretli Bir İşi Var,880000.0,Küçük Şehir,Giyim,30500.0,8.0,Etmiyor,obek_1,25.0
+-1,Kadın,31-40,Bekar,İlkokul Mezunu,Düzenli ve Ücretli Bir İşi Var,880000.0,Küçük Şehir,Giyim,30500.0,98.0,Etmiyor,obek_4,25.0
+-1,Kadın,31-40,Bekar,İlkokul Mezunu,Düzenli ve Ücretli Bir İşi Var,200000.0,Küçük Şehir,Ev ve Mobilya,30500.0,98.0,Etmiyor,obek_7,25.0
+-1,Erkek,41-50,Evli,Doktora Ötesi,Düzenli ve Ücretli Bir İşi Var,840000.0,Büyük Şehir,Giyim,150000.0,45.0,Etmiyor,obek_4,80.0
+-1,Kadın,18-30,Bekar,Yüksek Lisans Mezunu,Düzenli ve Ücretli Bir İşi Var,580000.0,Büyük Şehir,Giyim,100000.0,80.0,Ediyor,obek_4,160.0
+-1,Kadın,18-30,Bekar,Yüksek Lisans Mezunu,Düzenli ve Ücretli Bir İşi Var,580000.0,Büyük Şehir,Giyim,100000.0,80.0,Ediyor,obek_4,160.0
+-1,Erkek,18-30,Bekar,Lise Mezunu,İşsiz veya Düzenli Bir İşi Yok,120000.0,Büyük Şehir,Giyim,10000.0,20.0,Ediyor,obek_8,65.0
+-1,Erkek,51-60,Evli,Lise Mezunu,Düzenli ve Ücretli Bir İşi Var,350000.0,Küçük Şehir,Spor Malzemeleri,7500.0,15.0,Etmiyor,obek_3,20.0
+-1,Erkek,31-40,Evli,Lise Mezunu,Düzenli ve Ücretli Bir İşi Var,350000.0,Küçük Şehir,Spor Malzemeleri,7500.0,15.0,Etmiyor,obek_3,20.0
+-1,Erkek,41-50,Evli,Doktora Ötesi,Düzenli ve Ücretli Bir İşi Var,840000.0,Büyük Şehir,Giyim,150000.0,50.0,Ediyor,obek_4,100.0
+-1,Erkek,41-50,Evli,Doktora Ötesi,Düzenli ve Ücretli Bir İşi Var,840000.0,Büyük Şehir,Giyim,150000.0,50.0,Ediyor,obek_4,100.0
+-1,Erkek,41-50,Evli,Doktora Ötesi,Düzenli ve Ücretli Bir İşi Var,840000.0,Büyük Şehir,Giyim,150000.0,50.0,Ediyor,obek_4,100.0
+-1,Erkek,18-30,Bekar,Lise Mezunu,İşsiz veya Düzenli Bir İşi Yok,120000.0,Büyük Şehir,Giyim,10000.0,30.0,Ediyor,obek_8,50.0
+-1,Erkek,18-30,Bekar,Lise Mezunu,İşsiz veya Düzenli Bir İşi Yok,120000.0,Büyük Şehir,Giyim,10000.0,30.0,Ediyor,obek_8,50.0
+-1,Erkek,18-30,Bekar,Lise Mezunu,İşsiz veya Düzenli Bir İşi Yok,120000.0,Büyük Şehir,Giyim,10000.0,30.0,Ediyor,obek_8,50.0
+-1,Kadın,18-30,Bekar,Yüksek Lisans Mezunu,Düzenli ve Ücretli Bir İşi Var,600000.0,Büyük Şehir,Giyim,100000.0,50.0,Ediyor,obek_4,100.0
+-1,Kadın,18-30,Bekar,Yüksek Lisans Mezunu,Düzenli ve Ücretli Bir İşi Var,600000.0,Büyük Şehir,Giyim,100000.0,50.0,Ediyor,obek_4,100.0
